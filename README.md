@@ -1,4 +1,4 @@
-# Hi, I'm N. Emir Arslan
+# HI
 
 ## About Me
 I'm a Computer Engineering B.Sc. student at RWTH Aachen University
